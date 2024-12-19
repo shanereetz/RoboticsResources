@@ -16,5 +16,6 @@ Dr. Andreas Orthey (Realtime Robotics) and Dr. Wolfgang Hönig (TU Berlin)
 https://imrclab.github.io/teaching/motion-planning
 
 ## Tools
+
 ### Isaac Lab (formerly Isaac Gym, Orbit)
 https://isaac-sim.github.io/IsaacLab/main/index.html
