@@ -24,6 +24,6 @@ https://www.marl-book.com/
 ### Isaac Lab (formerly Isaac Gym, Orbit)
 https://isaac-sim.github.io/IsaacLab/main/index.html
 
-## Rerun.io
+### Rerun.io
 Open source log handling and visualization for spatial and embodied AI. Managed infrastructure to ingest, store, analyze, and stream data at scale with built-in visual debugging.
 https://rerun.io/
